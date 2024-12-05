@@ -89,3 +89,5 @@ rasa/keys
 # Local Netlify folder
 .netlify
 rasa.code-workspace
+temp_auto_push.bat
+temp_interactive_push.bat
